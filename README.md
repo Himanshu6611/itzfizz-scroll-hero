@@ -6,8 +6,9 @@
 
 ## 🔗 Project Links
 
-- **Live Webpage**: [https://itzfizz-scroll-hero.vercel.app](https://itzfizz-scroll-hero.vercel.app) *(or your deployed GitHub Pages URL: `https://<your-username>.github.io/itzfizz-scroll-hero/`)*
-- **GitHub Repository**: [https://github.com/<your-username>/itzfizz-scroll-hero](https://github.com/<your-username>/itzfizz-scroll-hero)
+- **Live Webpage**: [https://himanshu6611.github.io/itzfizz-scroll-hero/](https://himanshu6611.github.io/itzfizz-scroll-hero/) *(or [https://itzfizz-scroll-hero.vercel.app](https://itzfizz-scroll-hero.vercel.app))*
+- **GitHub Repository**: [https://github.com/Himanshu6611/itzfizz-scroll-hero](https://github.com/Himanshu6611/itzfizz-scroll-hero)
+
 
 ---
 
@@ -89,22 +90,22 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
 A GitHub Actions workflow is preconfigured in `.github/workflows/deploy.yml`.
 
-1. **Initialize Git & Push to GitHub**:
+1. **Push to GitHub**:
    ```bash
-   git init
    git add .
    git commit -m "feat: complete itzfizz scroll hero experience"
    git branch -M main
-   git remote add origin https://github.com/<your-username>/itzfizz-scroll-hero.git
+   git remote add origin https://github.com/Himanshu6611/itzfizz-scroll-hero.git
    git push -u origin main
    ```
 
 2. **Activate GitHub Pages**:
-   - Go to your repository on GitHub.
+   - Go to your repository on GitHub: `https://github.com/Himanshu6611/itzfizz-scroll-hero`
    - Click **Settings** > **Pages** (in left sidebar).
    - Under **Build and deployment** > **Source**, select **GitHub Actions**.
    - Your site will automatically build and publish at:
-     `https://<your-username>.github.io/itzfizz-scroll-hero/`
+     `https://himanshu6611.github.io/itzfizz-scroll-hero/`
+
 
 3. **Or Deploy to Vercel in 10 Seconds**:
    - Import the repository on [Vercel](https://vercel.com).
