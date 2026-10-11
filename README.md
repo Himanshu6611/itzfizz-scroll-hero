@@ -6,7 +6,7 @@
 
 ## 🔗 Project Links
 
-- **Live Webpage**: [https://himanshu6611.github.io/itzfizz-scroll-hero/](https://himanshu6611.github.io/itzfizz-scroll-hero/) *(or [https://itzfizz-scroll-hero.vercel.app](https://itzfizz-scroll-hero.vercel.app))*
+- **Live Webpage**: [https://himanshu6611.github.io/itzfizz-scroll-hero/](https://himanshu6611.github.io/itzfizz-scroll-hero/) *
 - **GitHub Repository**: [https://github.com/Himanshu6611/itzfizz-scroll-hero](https://github.com/Himanshu6611/itzfizz-scroll-hero)
 
 
