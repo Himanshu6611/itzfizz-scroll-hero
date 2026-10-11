@@ -106,11 +106,6 @@ A GitHub Actions workflow is preconfigured in `.github/workflows/deploy.yml`.
    - Your site will automatically build and publish at:
      `https://himanshu6611.github.io/itzfizz-scroll-hero/`
 
-
-3. **Or Deploy to Vercel in 10 Seconds**:
-   - Import the repository on [Vercel](https://vercel.com).
-   - Click **Deploy** (zero configuration needed).
-
 ---
 
 ## 📄 License
